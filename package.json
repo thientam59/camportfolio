@@ -8,7 +8,7 @@
     "react-dom": "^16.6.0",
     "react-scripts": "2.1.0"
   },
-  "homepage": "https://thientam59.github.io//Portfolio",
+  "homepage": "https://thientam59.github.io/camportfolio",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
