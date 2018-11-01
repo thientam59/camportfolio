@@ -16,19 +16,19 @@ self.__precacheManifest = [
     "url": "/camportfolio/static/js/runtime~main.ae42b5d3.js"
   },
   {
-    "revision": "711741ec55174b6cc8dc",
-    "url": "/camportfolio/static/js/main.711741ec.chunk.js"
+    "revision": "ed3c45f50f859b57a457",
+    "url": "/camportfolio/static/js/main.ed3c45f5.chunk.js"
   },
   {
-    "revision": "4bbce86c95aa453108a3",
-    "url": "/camportfolio/static/js/1.4bbce86c.chunk.js"
+    "revision": "b10d9c7fb5c08999f243",
+    "url": "/camportfolio/static/js/1.b10d9c7f.chunk.js"
   },
   {
-    "revision": "711741ec55174b6cc8dc",
-    "url": "/camportfolio/static/css/main.a939efb7.chunk.css"
+    "revision": "ed3c45f50f859b57a457",
+    "url": "/camportfolio/static/css/main.8bc66369.chunk.css"
   },
   {
-    "revision": "479b43f50e4847f19503651fdfff52a8",
+    "revision": "639bc74ba86d6b68c3638f7c1f2cc0d3",
     "url": "/camportfolio/index.html"
   }
 ];
