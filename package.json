@@ -1,11 +1,12 @@
 {
   "name": "camportfolio",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
+    "react-router-dom": "^4.3.1",
     "react-scripts": "2.1.0"
   },
   "homepage": "https://thientam59.github.io/camportfolio",
