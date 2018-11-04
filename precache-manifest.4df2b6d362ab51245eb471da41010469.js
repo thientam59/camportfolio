@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/camportfolio/static/media/img3.2dacbf2b.jpg"
   },
   {
-    "revision": "86d8f8c055f7e8bdb744",
+    "revision": "318dafd9a0ec63f879fd",
     "url": "/camportfolio/static/css/main.ea03fde1.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/camportfolio/static/media/img2.5ec06c55.jpg"
   },
   {
-    "revision": "86d8f8c055f7e8bdb744",
-    "url": "/camportfolio/static/js/main.86d8f8c0.chunk.js"
+    "revision": "318dafd9a0ec63f879fd",
+    "url": "/camportfolio/static/js/main.318dafd9.chunk.js"
   },
   {
     "revision": "d2e93368310df078e7802c0b771f7f47",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/camportfolio/static/media/background.00051dbb.jpg"
   },
   {
-    "revision": "86c104d5116ff202873699590c20ca7a",
+    "revision": "6b3b153476d3d25ebe39879da56a6ca2",
     "url": "/camportfolio/index.html"
   }
 ];
