@@ -1,7 +1,7 @@
 {
   "main.css": "/camportfolio/static/css/main.ea03fde1.chunk.css",
-  "main.js": "/camportfolio/static/js/main.7b6e2172.chunk.js",
-  "main.js.map": "/camportfolio/static/js/main.7b6e2172.chunk.js.map",
+  "main.js": "/camportfolio/static/js/main.b3d04e84.chunk.js",
+  "main.js.map": "/camportfolio/static/js/main.b3d04e84.chunk.js.map",
   "static/js/1.cf9d1983.chunk.js": "/camportfolio/static/js/1.cf9d1983.chunk.js",
   "static/js/1.cf9d1983.chunk.js.map": "/camportfolio/static/js/1.cf9d1983.chunk.js.map",
   "runtime~main.js": "/camportfolio/static/js/runtime~main.ae42b5d3.js",
@@ -9,10 +9,10 @@
   "static/media/img1.jpg": "/camportfolio/static/media/img1.45308dfb.jpg",
   "static/media/img3.jpg": "/camportfolio/static/media/img3.2dacbf2b.jpg",
   "static/media/img4.jpg": "/camportfolio/static/media/img4.d2e93368.jpg",
-  "static/media/index.css": "/camportfolio/static/media/portrait.f42360a1.jpg",
+  "static/media/index.css": "/camportfolio/static/media/background.00051dbb.jpg",
   "static/media/img2.jpg": "/camportfolio/static/media/img2.5ec06c55.jpg",
   "static/css/main.ea03fde1.chunk.css.map": "/camportfolio/static/css/main.ea03fde1.chunk.css.map",
   "index.html": "/camportfolio/index.html",
-  "precache-manifest.a5b32dfbd881737ff9da5dca3a25e3e9.js": "/camportfolio/precache-manifest.a5b32dfbd881737ff9da5dca3a25e3e9.js",
+  "precache-manifest.81f98ec6bae0dd269b689c4a65923dd3.js": "/camportfolio/precache-manifest.81f98ec6bae0dd269b689c4a65923dd3.js",
   "service-worker.js": "/camportfolio/service-worker.js"
 }

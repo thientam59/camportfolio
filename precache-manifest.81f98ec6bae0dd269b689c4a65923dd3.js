@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/camportfolio/static/media/img3.2dacbf2b.jpg"
   },
   {
-    "revision": "7b6e2172ba22231eb5e9",
+    "revision": "b3d04e84bd63001a3bca",
     "url": "/camportfolio/static/css/main.ea03fde1.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/camportfolio/static/media/img2.5ec06c55.jpg"
   },
   {
-    "revision": "7b6e2172ba22231eb5e9",
-    "url": "/camportfolio/static/js/main.7b6e2172.chunk.js"
+    "revision": "b3d04e84bd63001a3bca",
+    "url": "/camportfolio/static/js/main.b3d04e84.chunk.js"
   },
   {
     "revision": "d2e93368310df078e7802c0b771f7f47",
@@ -36,15 +36,15 @@ self.__precacheManifest = [
     "url": "/camportfolio/static/media/portrait_small.1ce3b77d.jpg"
   },
   {
-    "revision": "00051dbb5b9c7a7f4dfdf04f1b633445",
-    "url": "/camportfolio/static/media/background.00051dbb.jpg"
-  },
-  {
     "revision": "f42360a1930da8fe238b2b884ecb3937",
     "url": "/camportfolio/static/media/portrait.f42360a1.jpg"
   },
   {
-    "revision": "1a639622c7577b1f6b4bd44c0e507e60",
+    "revision": "00051dbb5b9c7a7f4dfdf04f1b633445",
+    "url": "/camportfolio/static/media/background.00051dbb.jpg"
+  },
+  {
+    "revision": "581723821c2fa763e28207038973c02d",
     "url": "/camportfolio/index.html"
   }
 ];
