@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/camportfolio/static/media/p1.60743008.gif"
   },
   {
-    "revision": "b484fedc68ba3a41f1fb",
-    "url": "/camportfolio/static/css/main.64769a0b.chunk.css"
+    "revision": "9243b0595416a8fd8aed",
+    "url": "/camportfolio/static/css/main.e6984011.chunk.css"
   },
   {
-    "revision": "e476b271d25a32d9a3bb",
-    "url": "/camportfolio/static/js/1.e476b271.chunk.js"
+    "revision": "cf89dd2f0fa46ba10fb8",
+    "url": "/camportfolio/static/js/1.cf89dd2f.chunk.js"
   },
   {
     "revision": "ae42b5d3ffe4bb9ce210",
@@ -32,8 +32,8 @@ self.__precacheManifest = [
     "url": "/camportfolio/static/media/img4.d2e93368.jpg"
   },
   {
-    "revision": "b484fedc68ba3a41f1fb",
-    "url": "/camportfolio/static/js/main.b484fedc.chunk.js"
+    "revision": "9243b0595416a8fd8aed",
+    "url": "/camportfolio/static/js/main.9243b059.chunk.js"
   },
   {
     "revision": "f4ed281871338694190ef73488f45e0f",
@@ -64,7 +64,7 @@ self.__precacheManifest = [
     "url": "/camportfolio/static/media/background.00051dbb.jpg"
   },
   {
-    "revision": "822afbe35c651ff642ea8a6537fb4f07",
+    "revision": "2634a88a826720f4196624a7ef6f10c7",
     "url": "/camportfolio/index.html"
   }
 ];
